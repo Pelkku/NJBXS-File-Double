@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke [Lord Zelda](https://www.telegram.dog/UnrealZlda)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke [Lord Clay](https://www.telegram.dog/Claysx)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
